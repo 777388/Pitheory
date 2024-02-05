@@ -12,4 +12,4 @@ last calculation has to be seperate from the super so it is printed, not calcula
 
 -3.1415652429362213
 
-if you try to calculator 3.85-3.85/2.89 it's 0
+if you try to calculator 3.85-3.85/8.29 it's 0
