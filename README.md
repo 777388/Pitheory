@@ -11,3 +11,5 @@ In case you don't wish to review the code or don't understand it, here's read ou
 last calculation has to be seperate from the super so it is printed, not calculated, the calculation is the above around super, below without it
 
 -3.1415652429362213
+
+if you try to calculator 3.85-3.85/2.89 it's 0
